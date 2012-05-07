@@ -1,0 +1,2 @@
+#!/bin/sh
+find $@ | \grep "\.hs$" | xargs `dirname $0`/hasktags -c -x
