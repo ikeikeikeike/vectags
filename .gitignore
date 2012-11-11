@@ -71,3 +71,7 @@ lib/vetags/lang/scala/sources
 #### clojure
 lib/vetags/lang/clojure/helloworld
 
+lib/vetags/lang/c/tester/
+lib/vetags/lang/c/twemperf/
+lib/vetags/lang/clojure/twitterbot
+lib/vetags/lang/clojure/helloworld
